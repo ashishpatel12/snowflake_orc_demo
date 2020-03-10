@@ -1,4 +1,4 @@
-# snowflake_orc_demo
+# Working with ORC Data in Snowflake
 Sample of how to work with ORC data in Snowflake
 
 # Sample Data Source
